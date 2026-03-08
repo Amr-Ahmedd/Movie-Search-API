@@ -16,3 +16,9 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Virtual environment (your case)
+Lib/
+Scripts/
+pyvenv.cfg
+
